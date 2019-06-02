@@ -1,11 +1,11 @@
 # Site settings
-title: JohnReese's Blog
-SEOTitle: JohnReese Blog
+title: Wuxin's Blog
+SEOTitle: Wuxin Blog
 header-img: img/home-bg.jpg
-email: 1321715290@qq.com
+email: 139170144820@163.com
 description: "description"
 keyword: "keyword"
-url: "https://callmejp.github.io/"              # your host, for absolute URL
+url: "https://callmewuxin.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,8 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
-zhihu_username: jppj
-github_username: Callmejp
+zhihu_username: 吴鑫即宇宙
+github_username: Callmewuxin
 
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
@@ -77,7 +77,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "可我就是停不下思考<br>死也停不下来"
+sidebar-about-description: "世上无难事<br>只要肯登攀"
 sidebar-avatar: /img/curry.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
