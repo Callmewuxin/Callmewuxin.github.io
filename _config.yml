@@ -1,7 +1,7 @@
 # Site settings
 title: Wuxin's Blog
 SEOTitle: Wuxin Blog
-header-img: img/home-bg.jpg
+header-img: img/bladerunner.jpg
 email: 139170144820@163.com
 description: "description"
 keyword: "keyword"
@@ -100,7 +100,7 @@ page-mathjax: false
 
 friends: [
     {
-        title: "jp",
+        title: "老金",
         href: "https://callmejp.github.io/"
     }
 ]
