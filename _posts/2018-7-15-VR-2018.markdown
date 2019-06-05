@@ -9,7 +9,7 @@ tags:
     - 论文
     - VR
 ---
-##文章标题
+## 文章标题
 [Immersive Environments and Virtual Reality: Systematic Review and Advances in Communication, Interaction and Simulation](https://www.mdpi.com/2414-4088/1/4/21/htm)
 ## 文章类型
 文献综述
@@ -30,6 +30,7 @@ tags:
 * VR和沉浸式环境应用、研究领域广泛，需要继续深入研究相关学科和建立叙述理论方法
 * VR更是个在未来能够传递各种感知的替代现实的媒介
 * VR下一步发展需要借助多学科的发展，下一个里程碑是发展模拟替代感知
+---
 ## 重要知识
 ### artificiality, simulation and alternative (ASA)
 artificiality, simulation and alternative (ASA)人工、模拟和替代是在虚拟现实中概念化新体验和数字信息的主要因素
@@ -49,4 +50,3 @@ Slater，Usoh和Stead（1995）以及Witmer和Singer（1998）都有关于在虚
 * 人们如何与菜单交互？
 * 是否需要多次尝试来完成任务？
 * 是否花时间阅读指南还是直接进入？
----
