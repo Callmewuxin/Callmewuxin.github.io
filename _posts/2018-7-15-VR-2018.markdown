@@ -4,7 +4,7 @@ title:      "Immersive Environments and Virtual Reality 论文笔记"
 subtitle:   "VR发展综述"
 date:       2018-07-15 12:00:00
 author:     "WuXin"
-header-img: "img/2018-7-15/vr-2018.jpg"
+header-img: "img/2018-7-15/vr-2018.webp"
 tags:
     - 论文
     - VR
@@ -38,6 +38,7 @@ tags:
 ## 重要知识
 ### artificiality, simulation and alternative (ASA)
 artificiality, simulation and alternative (ASA)人工、模拟和替代是在虚拟现实中概念化新体验和数字信息的主要因素
+
 ### 虚拟世界和现实世界的异同
 1. VR是需要参与者完全沉浸在一个完全合成的世界中，这个世界可能会或者可能不会模拟真实世界环境的属性，无论是现有的还是虚构的，但也可能不受真实世界物理定律的约束
 2. 而现实世界是必须受到物理世界的约束
@@ -50,6 +51,7 @@ artificiality, simulation and alternative (ASA)人工、模拟和替代是在虚
 Slater，Usoh和Stead（1995）以及Witmer和Singer（1998）都有关于在虚拟环境中用户存在感的调查问卷。但Using Presence Questionnaires in Reality这篇文章认为调查问卷在受试者体验相同类型的环境时可能有用，但是对在不同环境中的体验比较存在的效用存疑，受试者在虚拟和真实环境中的结果差别很小
 1. 因为真实感在虚拟环境和真实环境中用户的感知是不一样的。在虚拟环境中，存在感就被感知为环境感和在该环境中行动的能力。而在真实世界里，由于个体本就存在，所以存在感被理解为参与感、缺乏孤独感或者是舒适程度。“我在这里感到不舒服”的想法可能导致低存在感
 2. 调查问卷会询问参与者在环境中1-7级的真实感，但由于被允许以低于7级的分数回答，即使参与者在真实环境中，他们的真实感分数可能会低于7
+
 ### 行为分析
 可以拍摄用户在环境中的行为，最后采取归纳法理解这些行为已达到度量真实感的目的。比如：
 * 人们如何与菜单交互？
