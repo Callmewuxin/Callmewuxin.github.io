@@ -24,8 +24,8 @@ tags:
 
 Abbreviation|Type|Description
 --|:--|:--
-Ci|Cirrus(卷云)|1
-Cs|Cirrostratus(卷层云)|2
+Ci|Cirrus(卷云)|Fibrous white feathery clouds of ice crystals.
+Cs|Cirrostratus(卷层云)|Milky translucent cloud veil of ice crystals.
 Cc|Cirrocumulus(卷积云)|3
 Ac|Altocumulus(高积云)|4
 As|Altostratus(高层云)|5
