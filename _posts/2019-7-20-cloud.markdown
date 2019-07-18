@@ -19,8 +19,8 @@ tags:
 
 
 ## cloud type table
-| Abbrev |       Type           |      Description               |
-| ------ | -------------------- | --------------------------------- |
+| Abbrev | Type | Description |
+| -- | -- | --------------------------------- |
 | Ci | Cirrus | Fibrous white feathery clouds of ice crystals. |
 | Cs | Cirrostratus | Milky translucent cloud veil of ice crystals. |
 | Cc | Cirrocumulus | Fleecy cloud,cloud banks of small, white flakes. |
