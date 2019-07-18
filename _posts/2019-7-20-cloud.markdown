@@ -33,6 +33,21 @@ tags:
 |  St   |  Stratu(层云)         | Low layer cloud, causes fog or fine precipitation. |
 |  Ct   |  Contrails(航迹云)    | Line-shaped clouds produced by aircraft engine. |
 
+
+Abbreviation|Type
+--|:--
+Ci|Cirrus(卷云)
+Cs|Cirrostratus(卷层云)
+Cc|Cirrocumulus(卷积云)
+Ac|Altocumulus(高积云)
+As|Altostratus(高层云)
+Cu|Cumulus(积云)
+Cb|Cumulonimbus(积雨云)
+Ns|Nimbostratus(雨层云)
+Sc|Stratocumulus(层积云)
+St|Stratu(层云)
+Ct|Contrails(航迹云)
+
 Colons can be used to align columns.
 
 | Tables        | Are           | Cool  |
