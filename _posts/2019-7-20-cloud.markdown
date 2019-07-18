@@ -33,6 +33,10 @@ tags:
 |St   |Stratu(层云)         | Low layer cloud, causes fog or fine precipitation.|
 |Ct   |Contrails(航迹云)    |Line-shaped clouds produced by aircraft engine.|
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 ## relation between cloud type and weather
 >We surface observers admire clouds for their beauty, but clouds are more than just pretty puffs. In fact, clouds can help you predict upcoming weather. Look out for these eight cloud types next time you're out backpacking or boating to avoid being caught off guard by a "sudden" rainfall or thunderstorm. [Details:Using Clouds to Predict the Weather](https://www.thoughtco.com/forecasting-by-cloud-3443737)
 
