@@ -19,19 +19,19 @@ tags:
 
 
 ## cloud type table
-| Abbrev | Type | Description |
-| -- | -- | --------------------------------- |
-| Ci | Cirrus | Fibrous white feathery clouds of ice crystals. |
-| Cs | Cirrostratus | Milky translucent cloud veil of ice crystals. |
-| Cc | Cirrocumulus | Fleecy cloud,cloud banks of small, white flakes. |
-| Ac | Altocumulus | Grey cloud bundles compound like rough fleecy cloud. |
-| As | Altostratus | Dense gray layer cloud, often even and opaque. |
-| Cu | Cumulus | Heap clouds with flat bases in the middle or lower level. |
-| Cb | Cumulonimbus | Middle or lower cloud level thundercloud. |
-| Ns | Nimbostratus | Rain cloud. Grey, dark layer cloud, indistinct outlines. |
-| Sc | Stratocumulus | Rollers or banks of compound dark gray layer cloud. |
-| St | Stratu | Low layer cloud, causes fog or fine precipitation. |
-| Ct | Contrails | Line-shaped clouds produced by aircraft engine. |
+| Abbrev | Type | Description
+| -- | -- | --
+| Ci | Cirrus | Fibrous white feathery clouds of ice crystals.
+| Cs | Cirrostratus | Milky translucent cloud veil of ice crystals.
+| Cc | Cirrocumulus | Fleecy cloud,cloud banks of small, white flakes.
+| Ac | Altocumulus | Grey cloud bundles compound like rough fleecy cloud.
+| As | Altostratus | Dense gray layer cloud, often even and opaque.
+| Cu | Cumulus | Heap clouds with flat bases in the middle or lower level.
+| Cb | Cumulonimbus | Middle or lower cloud level thundercloud.
+| Ns | Nimbostratus | Rain cloud. Grey, dark layer cloud, indistinct outlines.
+| Sc | Stratocumulus | Rollers or banks of compound dark gray layer cloud.
+| St | Stratus | Low layer cloud, causes fog or fine precipitation.
+| Ct | Contrails | Line-shaped clouds produced by aircraft engine.
 
 
 Abbreviation|Type
@@ -45,7 +45,7 @@ Cu|Cumulus(积云)
 Cb|Cumulonimbus(积雨云)
 Ns|Nimbostratus(雨层云)
 Sc|Stratocumulus(层积云)
-St|Stratu(层云)
+St|Stratus(层云)
 Ct|Contrails(航迹云)
 
 Colons can be used to align columns.
