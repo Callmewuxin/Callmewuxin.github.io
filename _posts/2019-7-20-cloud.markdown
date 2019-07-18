@@ -19,34 +19,22 @@ tags:
 
 
 ## cloud type table
-| Abbrev | Type | Description
-| -- | -- | --
-| Ci | Cirrus | Fibrous 
-| Cs | Cirrostratus | Milky
-| Cc | Cirrocumulus | Fleecy
-| Ac | Altocumulus | Grey 
-| As | Altostratus | Dense 
-| Cu | Cumulus | Heap clouds 
-| Cb | Cumulonimbus | Middle 
-| Ns | Nimbostratus | Rain cloud. 
-| Sc | Stratocumulus | Rollers
-| St | Stratus | Low layer
-| Ct | Contrails | Line-shape
 
 
-Abbreviation|Type
---|:--
-Ci|Cirrus(卷云)
-Cs|Cirrostratus(卷层云)
-Cc|Cirrocumulus(卷积云)
-Ac|Altocumulus(高积云)
-As|Altostratus(高层云)
-Cu|Cumulus(积云)
-Cb|Cumulonimbus(积雨云)
-Ns|Nimbostratus(雨层云)
-Sc|Stratocumulus(层积云)
-St|Stratus(层云)
-Ct|Contrails(航迹云)
+
+Abbreviation|Type|Description
+--|:--|:--
+Ci|Cirrus(卷云)|1
+Cs|Cirrostratus(卷层云)|2
+Cc|Cirrocumulus(卷积云)|3
+Ac|Altocumulus(高积云)|4
+As|Altostratus(高层云)|5
+Cu|Cumulus(积云)|6
+Cb|Cumulonimbus(积雨云)|7
+Ns|Nimbostratus(雨层云)|8
+Sc|Stratocumulus(层积云)|9
+St|Stratus(层云)|10
+Ct|Contrails(航迹云)|11
 
 Colons can be used to align columns.
 
