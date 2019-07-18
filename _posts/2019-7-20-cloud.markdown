@@ -18,20 +18,20 @@ tags:
 4. Cumulonimbus, which tower across the low, middle, and upper atmosphere
 
 
-## cloud table
-|abbrev|  Type               |Description                            |
-|-----|--------------------|-----------------------------------------|
-|Ci   |Cirrus(卷云)         |Fibrous white feathery clouds of ice crystals.|
-|Cs   |Cirrostratus(卷层云) |Milky translucent cloud veil of ice crystals.|
-|Cc   |Cirrocumulus(卷积云) |Fleecy cloud,cloud banks of small, white flakes.|
-|Ac   |Altocumulus(高积云)  |Grey cloud bundles compound like rough fleecy cloud.|
-|As   |Altostratus(高层云)  |Dense gray layer cloud, often even and opaque.|
-|Cu   |Cumulus(积云)        |Heap clouds with flat bases in the middle or lower level.|
-|Cb   |Cumulonimbus(积雨云) |Middle or lower cloud level thundercloud.|
-|Ns   |Nimbostratus(雨层云) |Rain cloud. Grey, dark layer cloud, indistinct outlines.|
-|Sc   |Stratocumulus(层积云)|Rollers or banks of compound dark gray layer cloud.|
-|St   |Stratu(层云)         | Low layer cloud, causes fog or fine precipitation.|
-|Ct   |Contrails(航迹云)    |Line-shaped clouds produced by aircraft engine.|
+## cloud type table
+| Abbrev |       Type           |      Description               |
+| ------ | -------------------- | --------------------------------- |
+|  Ci   |  Cirrus(卷云)         | Fibrous white feathery clouds of ice crystals. |
+|  Cs   |  Cirrostratus(卷层云) | Milky translucent cloud veil of ice crystals. |
+|  Cc   |  Cirrocumulus(卷积云) | Fleecy cloud,cloud banks of small, white flakes. |
+|  Ac   |  Altocumulus(高积云)  | Grey cloud bundles compound like rough fleecy cloud. |
+|  As   |  Altostratus(高层云)  | Dense gray layer cloud, often even and opaque. |
+|  Cu   |  Cumulus(积云)        | Heap clouds with flat bases in the middle or lower level. |
+|  Cb   |  Cumulonimbus(积雨云) | Middle or lower cloud level thundercloud. |
+|  Ns   |  Nimbostratus(雨层云) | Rain cloud. Grey, dark layer cloud, indistinct outlines. |
+|  Sc   |  Stratocumulus(层积云)| Rollers or banks of compound dark gray layer cloud. |
+|  St   |  Stratu(层云)         | Low layer cloud, causes fog or fine precipitation. |
+|  Ct   |  Contrails(航迹云)    | Line-shaped clouds produced by aircraft engine. |
 
 Colons can be used to align columns.
 
