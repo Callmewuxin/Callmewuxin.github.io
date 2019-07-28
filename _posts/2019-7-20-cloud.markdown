@@ -33,6 +33,20 @@ Sc|Stratocumulus(层积云)|Rollers or banks of compound dark gray layer cloud.
 St|Stratus(层云)|Low layer cloud, causes fog or fine precipitation.
 Ct|Contrails(航迹云)|Line-shaped clouds produced by aircraft engine. 
 
+Abbreviation|Type|Description
+--|:--|:--
+Ci|Cirrus|Fibrous white feathery clouds of ice crystals.
+Cs|Cirrostratus|Milky translucent cloud veil of ice crystals.
+Cc|Cirrocumulus|Fleecy cloud,cloud banks of small, white flakes.
+Ac|Altocumulus|Grey cloud bundles compound like rough fleecy cloud.
+As|Altostratus|Dense gray layer cloud, often even and opaque.
+Cu|Cumulus|Heap clouds with flat bases in the middle or lower level.
+Cb|Cumulonimbus|Middle or lower cloud level thundercloud.
+Ns|Nimbostratus|Rain cloud. Grey, dark layer cloud, indistinct outlines.
+Sc|Stratocumulus|Rollers or banks of compound dark gray layer cloud.
+St|Stratus|Low layer cloud, causes fog or fine precipitation.
+Ct|Contrails|Line-shaped clouds produced by aircraft engine.
+
 ## cloud types' influence
 
 ### relation between cloud type and weather
