@@ -1,0 +1,37 @@
+---
+layout:     post
+title:      "抖音后端实习生面经"
+subtitle:   "一轮"
+date:       2019-12-13 15:57:00
+author:     "WuXin"
+header-img: "img/douyin.jpg"
+tags:
+    - 面经
+    - 抖音
+    - 菜鸟
+---
+# 网络
+1. TCP保证可靠性
+2. 访问网页的过程
+3. http与https的区别
+4. https怎样实现安全
+5. http1.0 http1.1 http2.0的区别
+6. get和post的区别 post为什么两次TCP
+7. http连接怎样保留用户状态
+
+# 操作系统
+1. 缺页中断
+2. 信号量
+3. 虚拟内存
+
+# 算法
+1. 环形链表（数组实现）
+2. 任意个有序链表合并
+
+# Linux
+1. 权限
+
+# Python
+1. 适配器
+2. 不可变对象和可变对象
+3. 魔法方法
